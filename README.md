@@ -1,6 +1,6 @@
 # Kodeco_DavidOkun_RealiOSApp_PlusSwiftData
  
-Added SwiftData to the App David Okun presented during the Kodeco Webinar
+Added SwiftData to the App David Okun presented during the Kodeco Webinar on February 24th 2024.
 
 Files for reference, review of cobbled together solution I made after the question at the end of the presentation about data persistence.
 
