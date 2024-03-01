@@ -19,4 +19,4 @@ https://stackoverflow.com/questions/56820779/how-can-i-create-a-button-with-imag
 Whole list item was acting as a button, changing .buttonStyle made it so just the checked/unchecked position is a button.
 https://www.hackingwithswift.com/forums/swiftui/button-s-on-click-event-being-applied-to-hstack-surrounding-it/2859
 
-Something possibly about this small button change seems to prevent built in re-ordering of the items...
+Note: Re-ordering the list items doesn't work.  The List needs help connecting to the @Query of SwiftData, probably needs a property for display order and then sort on that.
